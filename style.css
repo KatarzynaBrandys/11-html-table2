@@ -1,0 +1,12 @@
+td,th,table {
+    border: solid 2px}
+
+td, th {
+    border-right-color: grey;
+    border-bottom-color: grey;
+}
+
+table {
+    border-left-color: grey;
+    border-top-color: grey;
+}
